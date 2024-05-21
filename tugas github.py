@@ -1,1 +1,0 @@
-print('saya ajeng aulia ')

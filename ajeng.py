@@ -1,1 +1,0 @@
-print('halo saya aejng aulia indriyani')
